@@ -1,0 +1,5 @@
+com/example/easynotes/repository/NoteRepository.class
+com/example/easynotes/EasyNotesApplication.class
+com/example/easynotes/exception/ResourceNotFoundException.class
+com/example/easynotes/controller/NoteController.class
+com/example/easynotes/model/Note.class

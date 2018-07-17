@@ -1,0 +1,5 @@
+/Users/maclab/workspace/easy-notes/src/main/java/com/example/easynotes/EasyNotesApplication.java
+/Users/maclab/workspace/easy-notes/src/main/java/com/example/easynotes/controller/NoteController.java
+/Users/maclab/workspace/easy-notes/src/main/java/com/example/easynotes/model/Note.java
+/Users/maclab/workspace/easy-notes/src/main/java/com/example/easynotes/repository/NoteRepository.java
+/Users/maclab/workspace/easy-notes/src/main/java/com/example/easynotes/exception/ResourceNotFoundException.java
